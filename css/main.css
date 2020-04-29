@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Project    : Canvas-Animation 2.1
+
+    Created on : 3.4.14
+*/
+
+body
+{
+    background: antiquewhite;
+}
+
+canvas
+{
+    border: 1px solid darkgrey;
+    
+    margin: 0 1em;
+}
+
+#CANVAS_1
+{
+    display: none;
+}
